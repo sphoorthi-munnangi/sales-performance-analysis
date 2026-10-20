@@ -1,0 +1,6 @@
+segment,customers,sales,profit,unprofitable_customers,profit_margin_pct,unprofitable_customer_pct,line_items,avg_discount_pct
+Other customers,357,711464.7357,75193.8534,84,10.5689,23.5294,3262,15.7937
+Champions,108,583012.7231,71996.3691,14,12.3490,12.9630,2161,15.8899
+Loyal customers,132,373923.0361,38700.0815,21,10.3497,15.9091,2179,16.0858
+Potential loyalists,152,346922.0154,49678.3235,34,14.3197,22.3684,1534,14.9276
+At-risk high-value,55,311211.8440,56728.1871,6,18.2282,10.9091,1058,13.7921

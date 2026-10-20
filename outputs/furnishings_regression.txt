@@ -1,0 +1,24 @@
+FURNISHINGS PROFITABILITY REGRESSION
+==================================================
+Observations: 1,009
+Products: 182
+R-squared: 0.9601
+
+DISCOUNT COEFFICIENT
+Estimate: -1.4441
+95% confidence interval: [-1.4959, -1.3923]
+P-value: 0
+
+INTERPRETATION
+The coefficient estimates the association between a
+one-percentage-point increase in discount and the
+transaction profit margin in percentage points,
+holding product and region indicators constant.
+
+LIMITATIONS
+This is an observational, exploratory model.
+It does not establish causation.
+HC3 standard errors address heteroskedasticity,
+but not dependence among transactions.
+Transaction-level margins are not sales-weighted.
+Model diagnostics and sensitivity checks are needed.

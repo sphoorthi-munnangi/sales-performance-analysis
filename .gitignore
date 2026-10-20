@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Temporary Excel files
+~$*.xlsx
+~$*.xls
+
+# Python-generated files
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Source dataset - download from Tableau
+Data/*.xlsx
